@@ -1,2 +1,2 @@
 # test
-for testing Git
+A test repository for learning Git
